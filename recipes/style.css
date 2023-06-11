@@ -1,0 +1,16 @@
+body{
+    background-color: khaki;
+}
+h1,
+h2{
+    text-align: center;
+    color: white;
+}
+img{
+    width: auto;
+    height: 400px;
+   
+}
+p{
+    text-align: center;
+}
