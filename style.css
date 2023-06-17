@@ -6,6 +6,15 @@ ul{
     color: black;
     text-align: center;
     font-weight: bold;
+   
+}
+li{
+    display: inline-block;
+    border: 2px solid red;
+    padding: 32px;
+    margin: 16px 32px;
+    width: 200px;
+    background-color: yellow;
 }
 
 h1{
